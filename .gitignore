@@ -1,0 +1,1 @@
+-e "*.pyc\n*.pyo\n__pycache__/\nvenv/\n.env/\nENV/\n.vscode/\n.idea/" 
